@@ -90,7 +90,7 @@
 
 
 
-public class Car
+/*public class Car
 {
     public string model;
 
@@ -101,4 +101,4 @@ public class Car
     }
 }
 Car ocar = new Car();
-Console.WriteLine(ocar.model);
+Console.WriteLine(ocar.model);*/
