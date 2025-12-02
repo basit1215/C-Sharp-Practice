@@ -90,15 +90,15 @@
 
 
 
-public class Car
-{
-    public string model;
+// public class Car
+// {
+//     public string model;
 
 
-    public Car()
-    {
-        model = "civic";
-    }
-}
-Car ocar = new Car();
-Console.WriteLine(ocar.model);
+//     public Car()
+//     {
+//         model = "civic";
+//     }
+// }
+// Car ocar = new Car();
+// Console.WriteLine(ocar.model);
