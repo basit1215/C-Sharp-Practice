@@ -59,9 +59,9 @@
 //const double Pi = 3.142;
 //Console.WriteLine(Pi);
 
-//string fName = " Abdul";
-//string lName = " Basit";
-//Console.WriteLine("Hello" + fName + lName);
+string fName = " Abdul";
+string lName = " Basit";
+Console.WriteLine("Hello" + fName + lName);
 
 //int x = 5;
 //int y = 12;
