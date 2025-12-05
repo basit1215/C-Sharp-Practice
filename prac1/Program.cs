@@ -59,9 +59,9 @@
 //const double Pi = 3.142;
 //Console.WriteLine(Pi);
 
-//string fName = " Abdul";
-//string lName = " Basit";
-//Console.WriteLine("Hello" + fName + lName);
+string fName = " Abdul";
+string lName = " Basit";
+Console.WriteLine("Hello" + fName + lName);
 
 //int x = 5;
 //int y = 12;
@@ -82,12 +82,14 @@
 
 
 
-//Console.ReadLine(
-//
-//
-//);
+//Console.ReadLine();
+
+// public class Car
+// {
+//     public string model;
 
 
+<<<<<<< HEAD
 
 
 //public class Car
@@ -114,3 +116,12 @@ Console.ReadLine();
 //Console.WriteLine("Enter your age: ");
 //int age = Console.ReadLine();
 //Console.WriteLine("age is: " + age);
+=======
+//     public Car()
+//     {
+//         model = "civic";
+//     }
+// }
+// Car ocar = new Car();
+// Console.WriteLine(ocar.model);
+>>>>>>> 5ba07b11f7596c2d2527f09ccc3975f55bec3eca
