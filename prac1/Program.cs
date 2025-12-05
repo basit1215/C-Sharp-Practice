@@ -90,15 +90,27 @@
 
 
 
-public class Car
-{
-    public string model;
+//public class Car
+//{
+//    public string model;
 
 
-    public Car()
-    {
-        model = "civic";
-    }
-}
-Car ocar = new Car();
-Console.WriteLine(ocar.model);
+//    public Car()
+//    {
+//        model = "civic";
+//    }
+//}
+//Car ocar = new Car();
+//Console.WriteLine(ocar.model);
+
+
+
+Console.WriteLine("Enter your username: ");
+string userName = Console.ReadLine();
+Console.WriteLine("Username is: " + userName);
+Console.ReadLine();
+
+// error
+//Console.WriteLine("Enter your age: ");
+//int age = Console.ReadLine();
+//Console.WriteLine("age is: " + age);
